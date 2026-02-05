@@ -1,0 +1,4 @@
+/sbin/ifconfig eth0 10.0.0.6 netmask 255.255.255.252 broadcast 10.0.0.7 up
+/sbin/ifconfig eth1 10.0.0.9 netmask 255.255.255.252 broadcast 10.0.0.11 up
+/etc/init.d/zebra start
+/etc/init.d/quagga start
