@@ -12,4 +12,5 @@ Investigated the technical feasibility of routing money in the Internet ecosyste
 
 
 **Scenario 5 - Emulation using BGP MED Attribute with ISP Failure on AS80**
+
 ![scenario 5](https://github.com/user-attachments/assets/7a83e52e-8ee8-4bff-ad2c-5d9e603e1150)
