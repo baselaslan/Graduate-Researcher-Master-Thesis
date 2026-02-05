@@ -9,3 +9,7 @@ Investigated the technical feasibility of routing money in the Internet ecosyste
 **Advertisement Propagation Topology**
 
 ![Advertisement Propagation Topology](https://github.com/user-attachments/assets/fec06f55-818e-4607-b122-422fc3059424)
+
+
+**Scenario 5 - Emulation using BGP MED Attribute with ISP Failure on AS80**
+![scenario 5](https://github.com/user-attachments/assets/7a83e52e-8ee8-4bff-ad2c-5d9e603e1150)
