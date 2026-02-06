@@ -16,7 +16,7 @@ This topology represents a network designed with nine autonomous systems (AS), f
 
 **Implementation**
 
-[Kubernetes](https://kubernetes.io/),
+[Kubernetes](https://kubernetes.io/)
 
 [Docker Hub](https://hub.docker.com/u/kathara),
 
