@@ -22,7 +22,7 @@ The implementation was carried out using the commands and instructions included 
 
 [Docker Hub](https://hub.docker.com/u/kathara)
 
-[KATHARA COMMANDS](https://www.kathara.org/man-pages/kathara.1.html)
+[kathara Commands](https://www.kathara.org/man-pages/kathara.1.html)
 
 [Quagga](https://www.nongnu.org/quagga/docs/quagga.html)
 
