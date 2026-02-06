@@ -35,3 +35,7 @@ The implementation was carried out using the commands and instructions included 
 This figure shows the broken of primary and backup links between AS80 and AS90. In addition to the best paths between A and B according to the choice of BGP. The red path indicates the best path from A to B. In contrast, both green and blue are available paths from B to A, where red indicates the best path.
 
 ![scenario 5](https://github.com/user-attachments/assets/7a83e52e-8ee8-4bff-ad2c-5d9e603e1150)
+
+<img width="1408" height="557" alt="Screenshot from 2026-02-06 02-48-51" src="https://github.com/user-attachments/assets/42c60dc0-9c1d-4bac-a161-fb607ea4fcc5" />
+
+
