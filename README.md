@@ -36,6 +36,7 @@ This figure shows the broken of primary and backup links between AS80 and AS90. 
 
 ![scenario 5](https://github.com/user-attachments/assets/7a83e52e-8ee8-4bff-ad2c-5d9e603e1150)
 
-<img width="1408" height="557" alt="Screenshot from 2026-02-06 02-48-51" src="https://github.com/user-attachments/assets/42c60dc0-9c1d-4bac-a161-fb607ea4fcc5" />
+<img width="872" height="342" alt="ddd" src="https://github.com/user-attachments/assets/d2e3f235-056a-473a-9ebe-74c1b16248f7" />
+
 
 
