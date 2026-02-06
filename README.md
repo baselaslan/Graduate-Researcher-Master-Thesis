@@ -16,9 +16,12 @@ This topology represents a network designed with nine autonomous systems (AS), f
 
 **Implementation**
 
-[Kubernetes](https://kubernetes.io/)
-[Docker Hub](https://hub.docker.com/u/kathara)
-[KATHARA COMMANDS](https://www.kathara.org/man-pages/kathara.1.html)
+[Kubernetes](https://kubernetes.io/),
+
+[Docker Hub](https://hub.docker.com/u/kathara),
+
+[KATHARA COMMANDS](https://www.kathara.org/man-pages/kathara.1.html),
+
 [Quagga](https://www.nongnu.org/quagga/docs/quagga.html)
 
 
