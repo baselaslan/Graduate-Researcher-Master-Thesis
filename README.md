@@ -1,8 +1,8 @@
 # Graduate-Researcher-Master-Thesis
 
-**Emulation of a Spot Market for Interdomain Connectivity Using [Kathara] (https://github.com/KatharaFramework/Kathara).**
+**Emulation of a Spot Market for Interdomain Connectivity Using [GitHub Docs](https://docs.github.com).**
 
-[GitHub Docs](https://docs.github.com)
+
 
 Emulated a distributed network of Autonomous Systems and cloud-based environments representing a spot market involving ISPs, transit providers, and IXPs, using Kathará, a container-based network emulation platform built on Docker and extensible to Kubernetes for larger-scale deployments. Implemented OSPF for intra-domain routing and BGP for interdomain routing.
 
