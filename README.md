@@ -1,6 +1,6 @@
 # Graduate-Researcher-Master-Thesis
 
-**Emulation of a Spot Market for Interdomain Connectivity Using [Kathará](https://docs.github.com).**
+**Emulation of a Spot Market for Interdomain Connectivity Using [Kathará](https://github.com/KatharaFramework/Kathara).**
 
 
 
