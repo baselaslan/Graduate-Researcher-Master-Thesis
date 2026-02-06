@@ -14,7 +14,7 @@ This topology represents a network designed with nine autonomous systems (AS), f
 
 ![Advertisement Propagation Topology](https://github.com/user-attachments/assets/fec06f55-818e-4607-b122-422fc3059424)
 
-Implementation
+**Implementation**
 
 
 **Scenario 5 - Emulation using BGP MED Attribute with ISP Failure on AS80**
