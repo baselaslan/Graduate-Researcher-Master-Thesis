@@ -26,6 +26,8 @@ The implementation was carried out using the commands and instructions included 
 
 [Quagga](https://www.nongnu.org/quagga/docs/quagga.html)
 
+[IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
+
 
 
 **Evaluation**
